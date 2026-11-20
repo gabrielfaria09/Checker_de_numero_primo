@@ -1,0 +1,17 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "Bulding a package that checks if a number is prime or not.",
+  "keywords": [
+    "number",
+    "mathematics",
+    "open-source"
+  ],
+  "license": "MIT",
+  "author": "gabrielfaria09",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
